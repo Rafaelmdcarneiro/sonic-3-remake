@@ -1,2 +1,3 @@
-# sonic-3-remake
-A remake of the game Sonic 2 made with C++ and SDL. With an added level editor.
+# Sonic-3-Mixed
+
+Source code to cancelled Sonic 3 remake fangame project, Sonic 3'Mixed. Last known "functioning" build.
